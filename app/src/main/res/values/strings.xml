@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weatherapp</string>
+    <string name="toolbar_subtitle">Today\'s Weather</string>
+    <string name="forecast_header">10 Day Forecast</string>
+    <string name="max_temp">Max Temp:\u0020</string>
+
+</resources>
